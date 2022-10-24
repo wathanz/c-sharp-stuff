@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77579EFE-A606-4DA6-BEC1-3E65A54FDE56}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{480B7A02-2421-43BF-B099-C0366E10FB07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortMe", "src\SortMe\SortMe.csproj", "{4E0F44F4-AABC-4476-A014-9287C72FAACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E0F44F4-AABC-4476-A014-9287C72FAACD} = {480B7A02-2421-43BF-B099-C0366E10FB07}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C167A980-FC56-4182-A643-EB07C30BEBEB}
+	EndGlobalSection
+EndGlobal
