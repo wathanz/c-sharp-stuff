@@ -10,7 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{480B7A02-2421-43BF-B099-C0366E10FB07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortMe", "src\SortMe\SortMe.csproj", "{4E0F44F4-AABC-4476-A014-9287C72FAACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortMe", "src\SortMe\SortMe.csproj", "{4E0F44F4-AABC-4476-A014-9287C72FAACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeData", "src\TreeData\TreeData.csproj", "{7310B447-9C12-488A-9999-0855DF14914F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,12 +24,17 @@ Global
 		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0F44F4-AABC-4476-A014-9287C72FAACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7310B447-9C12-488A-9999-0855DF14914F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7310B447-9C12-488A-9999-0855DF14914F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7310B447-9C12-488A-9999-0855DF14914F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7310B447-9C12-488A-9999-0855DF14914F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4E0F44F4-AABC-4476-A014-9287C72FAACD} = {480B7A02-2421-43BF-B099-C0366E10FB07}
+		{7310B447-9C12-488A-9999-0855DF14914F} = {480B7A02-2421-43BF-B099-C0366E10FB07}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C167A980-FC56-4182-A643-EB07C30BEBEB}
